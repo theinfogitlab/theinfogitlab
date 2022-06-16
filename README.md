@@ -1,4 +1,4 @@
-we make install packages and config at theinfo.nu
+We make install packages and config at theinfo.nu
 
 <pre>
  _______ _            _____        __         _____ _ _     _           _
